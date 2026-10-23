@@ -1,7 +1,7 @@
 -- =====================================================
 -- File    : 04_query_management.sql
 -- Purpose : Auto-generate data queries from edit checks (like EDC systems do)
--- Run ONCE. Expected result: 11 new queries inserted.
+-- Run ONCE. Expected result: 12 new queries inserted.
 -- =====================================================
 USE cdm_trial_db;
 
